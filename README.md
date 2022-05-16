@@ -1,2 +1,2 @@
 # LetsEat-App
-Simple Recipe App using API and Vanilla Javascript
+Simple Skeleton of Recipe App using API and Vanilla Javascript.
